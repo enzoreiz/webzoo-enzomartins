@@ -10,7 +10,7 @@ O **WebZoo** é uma plataforma fictícia e educativa do Zoológico de São Paulo
 
 * **Estudante:** Enzo Martins dos Reis
 * **Turma:** DEV2
-* **Link publicado:** webzoo-enzomartins
+* **Link publicado:** https://webzoo-enzomartins.netlify.app/
 * **Repositório:** https://github.com/enzoreiz/webzoo-enzomartins
 
 ---
